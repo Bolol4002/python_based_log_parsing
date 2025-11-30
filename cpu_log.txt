@@ -1,0 +1,8 @@
+[cycle 1] ADD executed
+[cycle 2] ADD executed
+[cycle 3] LOAD executed
+[cycle 4] STORE executed
+[cycle 5] ADD executed
+[cycle 6] BRANCH executed
+[cycle 7] LOAD executed
+
